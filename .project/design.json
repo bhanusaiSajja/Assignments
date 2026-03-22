@@ -1,0 +1,13 @@
+{
+  "Tags": [
+    {
+      "Key": "Acme"
+    },
+    {
+      "Key": "SecurityHash"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": []
+}

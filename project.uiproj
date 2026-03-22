@@ -1,0 +1,6 @@
+{
+  "Name": "Client Security Hash",
+  "ProjectType": "Process",
+  "Description": "The process has been selected for RPA as part of the larger project initiative \r\nconducted within ACME Systems Inc., the Finance and Accounting department.",
+  "MainFile": "Main.xaml"
+}
